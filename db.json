@@ -1,0 +1,24 @@
+{
+"Products" :[
+{"id":1,"name":"Crested screamer","category":"Khaki"},
+{"id":2,"name":"Eagle, golden","category":"Teal"},
+{"id":3,"name":"Puffin, horned","category":"Indigo"},
+{"id":4,"name":"Pampa gray fox","category":"Red"},
+{"id":5,"name":"Eagle owl (unidentified)","category":"Teal"},
+{"id":6,"name":"Hoffman's sloth","category":"Crimson"},
+{"id":7,"name":"Galapagos hawk","category":"Fuscia"},
+{"id":8,"name":"Skua, great","category":"Purple"},
+{"id":9,"name":"Eastern cottontail rabbit","category":"Green"},
+{"id":10,"name":"Chimpanzee","category":"Khaki"},
+{"id":11,"name":"Pelican, australian","category":"Indigo"},
+{"id":12,"name":"Hyena, brown","category":"Indigo"},
+{"id":13,"name":"Blue racer","category":"Fuscia"},
+{"id":14,"name":"Coqui partridge","category":"Khaki"},
+{"id":15,"name":"Western lowland gorilla","category":"Green"},
+{"id":16,"name":"White-mantled colobus","category":"Indigo"},
+{"id":17,"name":"Porcupine, african","category":"Turquoise"},
+{"id":18,"name":"Blue-tongued lizard","category":"Fuscia"},
+{"id":19,"name":"Asian water dragon","category":"Orange"},
+{"id":20,"name":"Paradoxure","category":"Violet"}
+]
+}
